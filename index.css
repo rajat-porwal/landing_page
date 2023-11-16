@@ -108,6 +108,7 @@
 .mid_flex{
     margin-top: 40px;
     display: flex;
+    gap: 6px;
     flex-wrap: wrap;
     text-align: center;
 }
